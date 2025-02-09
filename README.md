@@ -13,7 +13,7 @@ A simple, responsive BMI (Body Mass Index) calculator created using HTML, CSS, a
 1. Clone this repository or download the ZIP file.
 2. Open `index.html` in any modern browser to use the BMI calculator.
 
-💻 **Live Demo**: [View the BMI Calculator Demo](#) *(https://sulabhsaluja.github.io/BMI-Calculator/)*
+💻 **Live Demo**: [View the BMI Calculator Demo](https://sulabhsaluja.github.io/BMI-Calculator/)
 
 ## How to Use
 1. Enter your height in the "Height" field.
